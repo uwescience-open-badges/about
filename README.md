@@ -1,2 +1,98 @@
-# about
-Information about the open badges project
+This is the [UW eScience](http://escience.washington.edu/) project for issuing [Center for Open Science](https://centerforopenscience.org/) badges for Open Data and Open Materials. 
+
+The aim of the project is to recognise researchers' efforts to make their data, code and other research product openly available. 
+
+## What are these badges?
+
+A badge is a small icon that you display on your poster, on your slides, or your paper to communicate that your data and materials are openly available for anyone to access. When you give a talk or present a poster at a conference or meeting, you can point to the badges and tell the audience that your data and code are openly available.
+
+We have one badge to signify open data, and another for open materials. There are circumstances when data sharing is not possible, for example, sharing some human participant data could violate confidentiality. In those cases, the work may still be eligible for the open materials badge, if the analysis code, etc. are openly available. 
+
+## Why should I get a badge?
+
+By displaying a badge on your work, you signal that you value transparency of methods and data, which are core values of science.  The specifications for earning a badge help you to learn simple guidelines for effective sharing of data and materials.  
+
+Signalling that you value openness will help to shift the expected norms of behaviour in science. Currently there are few incentives that encourage researchers to make their data and materials easily available to others. Badges to recognize sharing can help to incentivize openness and make exchanging research information more efficient. [Empirical analysis](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002456) indicates that the use of badges by journals can increase sharing by up to an order of magnitude or more. 
+
+## How do I get a badge? 
+
+1. Prepare your poster/slides/paper as you usually do, but making sure that your text includes a **disclosure statement** ([what is this?](#disclosure_statement)) about your code and/or data.
+2. **Email** a PDF of your poster/slides/paper or a URL to it to `bmarwick@uw.edu` **or upload** it to our [submissions](https://github.com/uwescience-open-badges/submissions) repository ([how to upload?](https://help.github.com/articles/adding-a-file-to-a-repository/))
+3. The editor will assign **two reviewers** to your submission. They will use the COS' [disclosure](https://osf.io/tvyxz/wiki/2.%20Awarding%20Badges/) review process, This means that they only confirm that the provided link(s) in the poster/slides/paper lead to the data and/or materials on a public, open access repository, and that the linked materials are related to the report. The reviewers will not attempt to run your code or reproduce your results. 
+4. The **reviews will be published anonymously** on a GitHub repository dedicated to your submission. If they both recommend that the badge(s) be awarded, then the editor will create a persistent, public archive from the repository that contains your submitted poster/slides/paper and its reviews. If the reviews recommend revisions,  you may submit a revised copy, if you wish.
+5. You will **receive a badge image file to add to your poster/slides/paper**. Your badge will include a DOI that links to the archive that contains the evidence of your badge review. This means that your badge is unique to the specific item that you submitted for review. You then add the badge image to your poster/slides/paper, and present or submit it as usual. You may make minor changes to your poster/slides/paper after you receive the badge, but you cannot remove the disclosure statement.
+
+## What is a disclosure statement? 
+
+The qualify for the badges, your poster/slides/paper must include a **disclosure statement**. The [Center for Open Science](https://osf.io/tvyxz/wiki/2.%20Awarding%20Badges/) require two items in this statement.
+
+For the Open Data badge:
+
+1. Provide the URL, DOI, or other permanent path for accessing the data in a public, open access repository.
+2. State whether or not there are sufficient information accompanying your data for an independent researcher to reproduce the reported results? If no, explain.
+
+For the Open Materials badge:
+
+1. Provide the URL, DOI, or other permanent path for accessing the materials (e.g. code, details of reagents, equipment, biological materials) in a public, open access repository.
+2. State whether or not there are sufficient information for an independent researcher to reproduce the reported methodology? If no, explain.
+
+Here is an example of a typical simple disclosure statement:
+
+>The raw data and R code used to generate the results presented here can be downloaded from https://dx.doi.org/10.6084/m9.figshare.2065602 That repository contains all the information for an independent researcher to reproduce the methods and results reported here.
+
+
+## What counts as data and materials?
+
+There are three criteria for your data to count as **open data**:
+
+1. Digitally-shareable data are publicly available on an open-access repository. The data must have a persistent identifier and be provided in a format that is time-stamped, immutable, and permanent (e.g., university repository, a registration on the Open Science Framework, or an independent repository listed at [*Nature*](http://www.nature.com/sdata/policies/repositories) or [re3data](http://www.re3data.org).
+2. A data dictionary (for example, a codebook or metadata describing the data) is included with sufficient description for an independent researcher to reproduce the reported analyses and results. Data from the same project that are not needed to reproduce the reported results can be kept private without losing eligibility for the Open Data Badge.
+3. An open license allowing others to copy, distribute, and make use of the data while allowing the licensor to retain credit and copyright as applicable. Creative Commons has defined several licenses for this purpose, which are described at http://www.creativecommons.org/licenses. CC0 or CC-BY is strongly recommended.
+
+Similarly, there are three criteria for your materials to count as **open materials**:
+
+1. Digitally-shareable materials are publicly available on an open-access repository. The materials must have a persistent identifier and be provided in a format that is time-stamped, immutable, and permanent (e.g., university repository, a registration on the Open Science Framework, or an independent repository listed listed at [*Nature*](http://www.nature.com/sdata/policies/repositories) or [re3data](http://www.re3data.org)
+2. Infrastructure, equipment, biological materials, or other components that cannot be shared digitally are described in sufficient detail for an independent researcher to understand how to reproduce the procedure.
+3. Sufficient explanation for an independent researcher to understand how the materials relate to the reported methodology.
+
+## Who can submit?
+
+Currently we provide this service to any students. staff and faculty at the University of Washington. Submissions from all departments and centers are welcome, you do not need to have any connection with the eScience Institute. Submissions from researchers at other institutions will be considered on a case-by-case basis. 
+
+## Where can I read more about this?
+
+### Studies of the benefits of being open
+
+Kidwell, Mallory C., et al. 2016 Badges to Acknowledge Open Practices: A Simple, Low-Cost, Effective Method for Increasing Transparency. PLOS Biology 14(5):e1002456.
+
+McKiernan, Erin C., et al. 2016 How open science helps researchers succeed. eLife 5:e16800.
+
+
+### Studies revealing the problems of the status quo with data and materials sharing
+
+Joppa, Lucas N., et al. 2013 Troubling Trends in Scientific Software Use. Science 340(6134):814
+
+Mislan, K. A. S., Jeffrey M. Heer, and Ethan P. White 2016 Elevating The Status of Code in Ecology. Trends in Ecology & Evolution 31(1):4-7.
+
+Savage, Caroline J., and Andrew J. Vickers 2009 Empirical Study of Data Sharing by Authors Publishing in PLoS Journals. PLOS ONE 4(9):e7078.
+
+Vines, Timothy H, et al. The Availability of Research Data Declines Rapidly with Article Age. Current Biology 24(1):94-97.
+
+Wicherts, Jelte M, et al. 2006 The poor availability of psychological research data for reanalysis. American Psychologist 61(7):726.
+
+### Guides for best practices with open data and open methods
+
+Hampton, Stephanie E, et al. 2015 The tao of open science for ecology. Ecosphere 6(7):1-13.
+
+LeVeque, Randall J., Ian M. Mitchell, and Victoria Stodden 2012 Reproducible Research for Scientific Computing: Tools and Strategies for Changing the Culture. Computing in Science and Engineering 14(4):13-17.
+
+Nosek, B. A., et al. 2015 Promoting an open research culture. Science 348(6242):1422.
+
+Wilson, G., Bryan, J., Cranston, K., Kitzes, J., Nederbragt, L., Teal, T.K., 2016. Good Enough Practices in Scientific Computing, CoRR abs/1609.00037.
+
+Wilson, Greg, et al. 2014 Best Practices for Scientific Computing. PLoS Biol 12(1).
+
+
+
+
+### Guides for preparing good posters/presentations/papers
