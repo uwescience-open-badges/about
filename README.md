@@ -4,13 +4,13 @@ The aim of the project is to recognise researchers' efforts to make their data, 
 
 ## What are these badges?
 
-A badge is a small icon that you display on your poster, on your slides, or your paper to communicate that your data and materials are openly available for anyone to access. When you give a talk or present a poster at a conference or meeting, you can point to the badges and tell the audience that your data and code are openly available.
+A badge is a small icon that you display on your poster, on your slides, or your paper to communicate that your data (e.g. spreadsheets) and materials (e.g. programming code) are openly available for anyone to access. When you give a talk or present a poster at a conference or meeting, you can point to the badges and tell the audience that your data and materials are openly available.
 
 We have one badge to signify open data, and another for open materials. There are circumstances when data sharing is not possible, for example, sharing some human participant data could violate confidentiality. In those cases, the work may still be eligible for the open materials badge, if the analysis code, etc. are openly available. 
 
 ## Why should I get a badge?
 
-By displaying a badge on your work, you signal that you value transparency of methods and data, which are core values of science.  The specifications for earning a badge help you to learn simple guidelines for effective sharing of data and materials.  
+By displaying a badge on your work, you signal that you value transparency of methods (e.g. R and Python files) and data (e.g. spreadsheets), which are core values of science.  The specifications for earning a badge help you to learn simple guidelines for effective sharing of data and materials.  
 
 Signalling that you value openness will help to shift the expected norms of behaviour in science. Currently there are few incentives that encourage researchers to make their data and materials easily available to others. Badges to recognize sharing can help to incentivize openness and make exchanging research information more efficient. [Empirical analysis](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002456) indicates that the use of badges by journals can increase sharing by up to an order of magnitude or more. 
 
@@ -33,7 +33,7 @@ For the Open Data badge:
 
 For the Open Materials badge:
 
-1. Provide the URL, DOI, or other permanent path for accessing the materials (e.g. code, details of reagents, equipment, biological materials) in a public, open access repository.
+1. Provide the URL, DOI, or other permanent path for accessing the materials (e.g. code files, details of reagents, equipment, biological materials) in a public, open access repository.
 2. State whether or not there are sufficient information for an independent researcher to reproduce the reported methodology? If no, explain.
 
 Here is an example of a typical simple disclosure statement:
@@ -45,13 +45,13 @@ Here is an example of a typical simple disclosure statement:
 
 There are three criteria for your data to count as **open data**:
 
-1. Digitally-shareable data are publicly available on an open-access repository. The data must have a persistent identifier and be provided in a format that is time-stamped, immutable, and permanent (e.g., university repository, a registration on the Open Science Framework, or an independent repository listed at [*Nature*](http://www.nature.com/sdata/policies/repositories) or [re3data](http://www.re3data.org).
+1. Digitally-shareable data are publicly available on an open-access repository. The data must have a persistent identifier and be provided in a format that is time-stamped, immutable, and permanent (e.g., files in a [university repository](https://researchworks.lib.washington.edu/index.html), on the Open Science Framework, or an independent repository listed at [*Nature*](http://www.nature.com/sdata/policies/repositories) or [re3data](http://www.re3data.org).
 2. A data dictionary (for example, a codebook or metadata describing the data) is included with sufficient description for an independent researcher to reproduce the reported analyses and results. Data from the same project that are not needed to reproduce the reported results can be kept private without losing eligibility for the Open Data Badge.
 3. An open license allowing others to copy, distribute, and make use of the data while allowing the licensor to retain credit and copyright as applicable. Creative Commons has defined several licenses for this purpose, which are described at http://www.creativecommons.org/licenses. CC0 or CC-BY is strongly recommended.
 
 Similarly, there are three criteria for your materials to count as **open materials**:
 
-1. Digitally-shareable materials are publicly available on an open-access repository. The materials must have a persistent identifier and be provided in a format that is time-stamped, immutable, and permanent (e.g., university repository, a registration on the Open Science Framework, or an independent repository listed listed at [*Nature*](http://www.nature.com/sdata/policies/repositories) or [re3data](http://www.re3data.org)
+1. Digitally-shareable materials are publicly available on an open-access repository. The materials must have a persistent identifier and be provided in a format that is time-stamped, immutable, and permanent (e.g., files in a [university repository](https://researchworks.lib.washington.edu/index.html), on the Open Science Framework, or an independent repository listed listed at [*Nature*](http://www.nature.com/sdata/policies/repositories) or [re3data](http://www.re3data.org)
 2. Infrastructure, equipment, biological materials, or other components that cannot be shared digitally are described in sufficient detail for an independent researcher to understand how to reproduce the procedure.
 3. Sufficient explanation for an independent researcher to understand how the materials relate to the reported methodology.
 
