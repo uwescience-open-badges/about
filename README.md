@@ -56,7 +56,7 @@ Similarly, there are three criteria for your materials to count as **open materi
 
 ## Who can submit?
 
-Currently we provide this service to any students. staff and faculty at the University of Washington. Submissions from all departments and centers are welcome, you do not need to have any connection with the eScience Institute. Submissions from researchers at other institutions will be considered on a case-by-case basis. 
+Currently we provide this service to all students, staff, and faculty at the University of Washington. Submissions from all departments and centers are welcome, you do not need to have any connection with the eScience Institute. Submissions from researchers at other institutions will be considered on a case-by-case basis. 
 
 ## Where can I read more about this?
 
