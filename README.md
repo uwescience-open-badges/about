@@ -136,8 +136,6 @@ Gustavii B. How to write and illustrate a scientific paper. New York: Cambridge 
 
 Day, Robert A. (1989) How to write and publish a scientific paper. Greenwood Press 
 
-Mikhailova, E. and Nilson, L. B. 2007. Developing prolific scholars: The “fast article writing” methodology. Journal of Faculty Development, 21, 2 (April): 93-100.
-
 Wells, W. A. (2004). Me write pretty one day how to write a good scientific paper. The Journal of cell biology, 165(6), 757-758. 
 
 ### Still have questions?
