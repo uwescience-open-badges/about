@@ -4,13 +4,13 @@ The aim of the project is to recognise researchers' efforts to make their data, 
 
 ## What are these badges?
 
-A badge is a small icon that you display on your poster, on your slides, or your paper to communicate that your data (e.g. spreadsheets) and materials (e.g. programming code) are openly available for anyone to access. When you give a talk or present a poster at a conference or meeting, you can point to the badges and tell the audience that your data and materials are openly available.
+A badge is a small icon that you display on your conference poster, on your presentation slides, or your paper preprint to communicate that your data (e.g. spreadsheets) and materials (e.g. programming code) are openly available for anyone to access. When you give a talk or present a poster at a conference or meeting, you can point to the badges and tell the audience that your data and materials are openly available.
 
 We have one badge to signify open data, and another for open materials. There are circumstances when data sharing is not possible, for example, sharing some human participant data could violate confidentiality. In those cases, the work may still be eligible for the open materials badge, if the analysis code, etc. are openly available. 
 
 ## Why should I get a badge?
 
-By displaying a badge on your work, you signal that you value transparency of methods (e.g. R and Python files) and data (e.g. spreadsheets), which are core values of science.  The specifications for earning a badge help you to learn simple guidelines for effective sharing of data and materials.  
+By displaying a badge on your work, you signal that you value transparency of methods (e.g. scripts of R, Python, Matlab, etc.) and data (e.g. CSV, NetCDF, FITS, HDF5, FASTQ, image, etc. files), which are core values of science.  The specifications for earning a badge help you to learn simple guidelines for effective sharing of data and materials.  
 
 Signalling that you value openness will help to shift the expected norms of behaviour in science. Currently there are few incentives that encourage researchers to make their data and materials easily available to others. Badges to recognize sharing can help to incentivize openness and make exchanging research information more efficient. [Empirical analysis](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002456) indicates that the use of badges by journals can increase sharing by up to an order of magnitude or more. 
 
@@ -38,14 +38,13 @@ For the Open Materials badge:
 
 Here is an example of a typical simple disclosure statement:
 
->The raw data and R code used to generate the results presented here can be downloaded from https://dx.doi.org/10.6084/m9.figshare.2065602 That repository contains all the information for an independent researcher to reproduce the methods and results reported here.
-
+>The raw data and R code used to generate the results presented here can be downloaded from https://dx.doi.org/10.6084/m9.figshare.2065602. That repository contains all the information for an independent researcher to reproduce the methods and results reported here.
 
 ## What counts as data and materials?
 
 There are three criteria for your data to count as **open data**:
 
-1. Digitally-shareable data are publicly available on an open-access repository. The data must have a persistent identifier and be provided in a format that is time-stamped, immutable, and permanent (e.g., files in a [university repository](https://researchworks.lib.washington.edu/index.html), on the Open Science Framework, or an independent repository listed at [*Nature*](http://www.nature.com/sdata/policies/repositories) or [re3data](http://www.re3data.org).
+1. Digitally-shareable data (are publicly available on an open-access repository. The data must have a persistent identifier and be provided in a format that is time-stamped, immutable, and permanent (e.g., files in a [university repository](https://researchworks.lib.washington.edu/index.html), on the Open Science Framework, or an independent repository listed at [*Nature*](http://www.nature.com/sdata/policies/repositories) or [re3data](http://www.re3data.org).
 2. A data dictionary (for example, a codebook or metadata describing the data) is included with sufficient description for an independent researcher to reproduce the reported analyses and results. Data from the same project that are not needed to reproduce the reported results can be kept private without losing eligibility for the Open Data Badge.
 3. An open license allowing others to copy, distribute, and make use of the data while allowing the licensor to retain credit and copyright as applicable. Creative Commons has defined several licenses for this purpose, which are described at http://www.creativecommons.org/licenses. CC0 or CC-BY is strongly recommended.
 
@@ -92,7 +91,54 @@ Wilson, G., Bryan, J., Cranston, K., Kitzes, J., Nederbragt, L., Teal, T.K., 201
 
 Wilson, Greg, et al. 2014 Best Practices for Scientific Computing. PLoS Biol 12(1).
 
-
-
+[PLOS Data Availability Policy](http://journals.plos.org/plosone/s/data-availability#loc-acceptable-data-sharing-methods)
 
 ### Guides for preparing good posters/presentations/papers
+
+#### Posters
+
+Erren, T. C., & Bourne, P. E. (2007). Ten simple rules for a good poster presentation. PLoS computational biology, 3(5), e102. 
+
+Boullata, J. I., & Mancuso, C. E. (2007). A “how-to” guide in preparing abstracts and poster presentations. Nutrition in Clinical Practice, 22(6), 641-646. 
+
+Hamilton, C. W. (2008). At a Glance: A Stepwise Approach to Successful Poster Presentations. CHEST Journal, 134(2), 457-459. 
+
+Rowe, N., & Ilic, D. (2011). Poster Presentation–a visual medium for academic and scientific meetings. Paediatric respiratory reviews, 12(3), 208-213. 
+
+#### Presentations
+
+Alley, M. (1996). The craft of scientific presentations. Springer.
+
+Alley, M., & Neeley, K. A. (2005). Rethinking the design of presentation slides: A case for sentence headlines and visual evidence. Technical communication,52(4), 417-426.
+
+Powell, K. 2005 Make your point. Nature 434, 416-417 (17 March 2005) | doi:10.1038/nj7031-416a 
+
+Bourne PE (2007) Ten simple rules for making good oral presentations. PLoS Comput Biol 3(4): e77. doi:10.1371/journal.pcbi.0030077 
+
+#### Papers
+
+Neill, U. S. (2007). "How to write a scientific masterpiece." The Journal of Clinical Investigation 117(12): 3599-3602.
+
+Provenzale, J. M. 2007. Ten Principles to Improve the Likelihood of Publication of a Scientific Manuscript. American Journal of Roentgenology 188(5): 1179-1182.
+
+Gopen, George D. and Judith A. Swan 1990 The Science of Scientific Writing. American Scientist 78:550-558.
+
+Kalpakjian, C. and M. Meade 2008. Writing Manuscripts for Peer Review: Your Guide to Not Annoying Reviewers and Increasing Your Chances of Success. Sexuality and Disability 26(4): 229-240.
+
+Hengl, T. and  M Gould (2002) Rules of thumb for writing research articles 
+
+Sand‐Jensen, K. (2007). How to write consistently boring scientific literature.Oikos, 116(5), 723-727.
+
+Whitesides, G. M. (2004). Whitesides' group: writing a paper. Advanced Materials, 16(15), 1375-1377.
+
+Gustavii B. How to write and illustrate a scientific paper. New York: Cambridge University Press
+
+Day, Robert A. (1989) How to write and publish a scientific paper. Greenwood Press 
+
+Mikhailova, E. and Nilson, L. B. 2007. Developing prolific scholars: The “fast article writing” methodology. Journal of Faculty Development, 21, 2 (April): 93-100.
+
+Wells, W. A. (2004). Me write pretty one day how to write a good scientific paper. The Journal of cell biology, 165(6), 757-758. 
+
+### Still have questions?
+
+Send them to Ben Marwick at `bmarwick@uw.edu`
