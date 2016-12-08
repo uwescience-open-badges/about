@@ -66,7 +66,6 @@ Kidwell, Mallory C., et al. 2016 Badges to Acknowledge Open Practices: A Simple,
 
 McKiernan, Erin C., et al. 2016 How open science helps researchers succeed. eLife 5:e16800.
 
-
 ### Studies revealing the problems of the status quo with data and materials sharing
 
 Joppa, Lucas N., et al. 2013 Troubling Trends in Scientific Software Use. Science 340(6134):814
@@ -92,6 +91,8 @@ Wilson, G., Bryan, J., Cranston, K., Kitzes, J., Nederbragt, L., Teal, T.K., 201
 Wilson, Greg, et al. 2014 Best Practices for Scientific Computing. PLoS Biol 12(1).
 
 [PLOS Data Availability Policy](http://journals.plos.org/plosone/s/data-availability#loc-acceptable-data-sharing-methods)
+
+[Springer Research Nature Data Policies](http://www.springernature.com/gp/group/data-policy/faq)
 
 ### Guides for preparing good posters/presentations/papers
 
