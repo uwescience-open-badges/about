@@ -16,7 +16,7 @@ Signalling that you value openness will help to shift the expected norms of beha
 
 ## How do I get a badge? 
 
-1. Prepare your poster/slides/paper as you usually do, but making sure that your text includes a **disclosure statement** ([what is this?](#disclosure_statement)) about your code and/or data.
+1. Prepare your poster/slides/paper as you usually do, but making sure that your text includes a **disclosure statement** ([what is this?](#disclosure_statement)) about your code and/or data ([where to archive the codedata?](#Where_can_I_archive_my data_and_materials?)).
 2. **Email** a PDF of your poster/slides/paper or a URL to it to `bmarwick@uw.edu` **or upload** it to our [submissions](https://github.com/uwescience-open-badges/submissions) repository ([how to upload?](https://help.github.com/articles/adding-a-file-to-a-repository/))
 3. The editor will assign **two reviewers** to your submission. They will use the COS' [disclosure](https://osf.io/tvyxz/wiki/2.%20Awarding%20Badges/) review process, This means that they only confirm that the provided link(s) in the poster/slides/paper lead to the data and/or materials on a public, open access repository, and that the linked materials are related to the report. The reviewers will not attempt to run your code or reproduce your results. 
 4. The **reviews will be published anonymously** on a GitHub repository dedicated to your submission. If they both recommend that the badge(s) be awarded, then the editor will create a persistent, public archive from the repository that contains your submitted poster/slides/paper and its reviews. If the reviews recommend revisions,  you may submit a revised copy, if you wish.
@@ -57,6 +57,16 @@ Similarly, there are three criteria for your materials to count as **open materi
 ## Who can submit?
 
 Currently we provide this service to all students, staff, and faculty at the University of Washington. Submissions from all departments and centers are welcome, you do not need to have any connection with the eScience Institute. Submissions from researchers at other institutions will be considered on a case-by-case basis. 
+
+## Where can I archive my data and materials?
+
+Your data and materials must be publicly available on an open-access repository. The data must have a persistent identifier and be provided in a format that is time-stamped, immutable, and permanent. For example, a GitHub link to your code and data is not suitable because it is not persistent. Instead, you should archive your data and code from Github on a trustworthy repository that provides a persistent identifier.
+
+A persistent identifier is a link to your files that will continue to work even if your files move to other servers or even to other organisations. There are several mature systems in common use: the persistent URL (PURL); the digital object identifier (DOI), and the Archival Resource Key (ARK). These are usually easy to recognise because the link contains the abbreviation of the system name (e.g. DOI in http://dx.doi.org/0.17605/OSF.IO/RTZTH). 
+
+There are many open-access repositories that can provide time-stamped, immutable, and permanent storage of your files. Many repositories are discipline-specific, so one way to choose your repository is to see what other researchers in your field are using to store data and materials, and deposit your files there. Lists of repositories organised by subject are available at [re3data.org](http://service.re3data.org/browse/by-subject/) and [*Nature*](http://www.nature.com/sdata/policies/repositories). 
+
+Another option are general-purpose repositories. For researchers at the University of Washington there is the [ResearchWorks](https://researchworks.lib.washington.edu/) data repository, and UW library staff are available to help with depositing files. Other general-purpose repositories include the [Open Science Framework](https://osf.io/), [Figshare](http://figshare.com), and [Zenodo](https://zenodo.org/). These three services have convienent tools for easily moving files from GitHub into the repository 
 
 ## Where can I read more about this?
 
