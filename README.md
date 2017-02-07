@@ -104,6 +104,8 @@ Wilson, Greg, et al. 2014 Best Practices for Scientific Computing. PLoS Biol 12(
 
 [Springer Research Nature Data Policies](http://www.springernature.com/gp/group/data-policy/faq)
 
+Justin Kitzes, Daniel Turek, Fatma Deniz (Eds.) [The Practice of Reproducible Research. Case Studies and Lessons from the Data-Intensive Sciences](https://www.practicereproducibleresearch.org/)
+
 ### Guides for preparing good posters/presentations/papers
 
 #### Posters
